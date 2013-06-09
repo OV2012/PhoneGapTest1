@@ -4,18 +4,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
-
-    <name>der VO kriegt alles hin</name>
-
-    <description>
-        das ist ein test, der beweist, 
-		dass der VO einfach  für ALLE anforderungen eine lösung finden kann.
-    </description>
-
-    <author href="http://www.aso.de" email="viktor@adlersoftware.de">
-        Adlersoftware Team
-    </author>
+        version   = "2.0.0">
+    <name>Mini-APP</name>
+    <description>Html5 to IOs - das ist total einfach</description>
+    <author href="http://www.aso.de" email="viktor@adlersoftware.de">Adlersoftware Team</author>
 
     <!--
         Enable individual API permissions by defining each here.
